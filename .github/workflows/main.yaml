@@ -5,7 +5,11 @@
 # Name of the workflow
 name: Git Actions Demo
 # What triggers this workflow run
-on: [push]
+on:
+   push:
+     branches:
+     - main
+     
 # What jobs are part of this workflow
 jobs:
   # What is the name of this job
