@@ -1,6 +1,6 @@
 #! /bin/bash
 
-echo "Creating File"
+echo "Creating File for $1"
 touch BuildNewFile.txt
 ls
 
@@ -17,7 +17,7 @@ fi
 
 mkdir JIM
 touch BuildNewFile1.txt
-ls
+ls -a
 
 echo "Move file to folder"
 mv BuildNewFile1.txt JIM
