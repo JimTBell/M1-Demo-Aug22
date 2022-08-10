@@ -1,0 +1,108 @@
+---
+albums:
+- name: Doctor in the House
+  artist:
+    main: Rob Pajama
+    feat: ["Dunk Honeybee", "No Belles"]
+  yearReleased: 2019
+  rating: 7
+  runtime: "17:51"
+  genre: Electonic Music
+  songs:
+  - name: Going Magnet
+    runtime: "02:19"
+  - name: Automatic Faith
+    runtime: "03:05"
+  - name: Good Lines
+    runtime: "02:18"
+  - name: Little Light
+    runtime: "02:19"
+  - name: Still Need Rider
+    runtime: "03:14"
+  - name: Little Light
+    runtime: "02:19"
+  - name: Chill Tech
+    runtime: "02:36"
+  - name: Social Snacks
+    runtime: "02:30"
+- name: Committee of Despair
+  artist:
+    main: Figment of Ruins
+    feat: []
+  yearReleased: 2017
+  rating: 9
+  runtime: "25:44"
+  genre: Nu Metal
+  songs:
+  - name: Naïve Move
+    runtime: "03:33"
+  - name: Progresive Train
+    runtime: "03:03"
+  - name: Ace of Teenage
+    runtime: "02:49"
+  - name: Little Light
+    runtime: "03:33"
+  - name: Dreams of Outside the Box
+    runtime: "02:51"
+  - name: Cave of Holidays
+    runtime: "02:21"
+  - name: Absolute Limit
+    runtime: "02:00"
+  - name: With Chances
+    runtime: "03:30"
+  - name: First
+    runtime: "02:04"
+- name: With Feeling
+  artist:
+    main: Casey Griffin
+    feat: ["Carter Shawn"]
+  yearReleased: 2020
+  rating: 6
+  runtime: "16:05"
+  genre: Country
+  songs:
+  - name: Sweet Kiwi Juice
+    runtime: "01:51"
+  - name: Lighter Swing
+    runtime: "02:57"
+  - name: Heart Ranch
+    runtime: "03:29"
+  - name: Pure Motion
+    runtime: "03:08"
+  - name: Everything is Love
+    runtime: "01:55"
+  - name: Quiet Lies
+    runtime: "03:13"
+# another way of defining an album entry by defining keys for each array entity.
+- album1:
+  name: Calm After the Storm
+  artist:
+    main: Silk
+    feat: []
+  yearReleased: 2021
+  rating: 9
+  runtime: "17:45"
+  genre: BubbleGum Pop
+  songs:   
+  - song_1:
+    name: Missing Coffee
+    runtime: "01:53"
+  - song_2:
+    name: Neon Now
+    runtime: "03:02"
+  - song_3:
+    name: Crazy Slide
+    runtime: "03:20"
+  - song_4:
+    name: Missing Delights
+    runtime: "01:55"
+  - song_5:
+    name: Your Things
+    runtime: "03:38"
+  - song_6:
+    name: My Number
+    runtime: "03:03"
+  - song_7: 
+    name: Whole Rain
+    runtime: "02:53"
+    
