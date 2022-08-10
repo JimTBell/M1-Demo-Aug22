@@ -5,7 +5,7 @@
 # Name of the workflow
 name: Git Actions Demo
 
-' Global environments
+# Global environments
 env:
   NAME: Jim
   
