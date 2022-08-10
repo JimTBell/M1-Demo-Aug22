@@ -19,5 +19,6 @@ jobs:
     - name: Check out repo
       uses: actions/checkout@v3 # Pre build official github action to checkout a repo 
 
-    - run: touch "My New File.txt"
+    - name: Create a new file 
+      run: touch "My New File.txt"
     - run: ls
